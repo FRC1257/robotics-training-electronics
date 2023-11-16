@@ -6,4 +6,5 @@ Formatted Documentation: [https://frc1257.github.io/robotics-training-electronic
 
 Documentation generated with [Docsify](https://docsify.js.org/)
 
-The CAN wires send and revieve signal!!!!
+The CAN wir
+I LOVE VSCODE!
