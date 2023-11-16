@@ -1,14 +1,10 @@
-# March 5, 2007
+# Drive Drain
+### PDH (Power distribution hub)
+The pdh distributes power to the different components of the robot. The batter connects to the pdh by screwing on the bater leads to the holes on
 
-pisces
 
-super cool birthday
+Parts of the endomembrane system
+- nucleus
+- golgi
 
-violin
 
-## My favorites
-1. violin
-1. dance
-1. books
-
-![alt text](img/bonne_une.png)
